@@ -7,4 +7,4 @@ def display_board(board)
   puts "-----------"
   puts "   |   |   "
 end
-display_board("X") = {board[4]}
+
